@@ -11,7 +11,7 @@ nombre = True
 #del nombre
 
 # Concatenar con f-strings
-bienvenida = f'Hola {nombre} ¿Cómo estás?' 
+bienvenida = f'Hola {nombre_completo_de_la_persona} ¿Cómo estás?' 
 
 # Concatenar con +
 bienvenida = 'Hola ' + '¿Cómo estás?' 
