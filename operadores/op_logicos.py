@@ -11,8 +11,8 @@ resultado7 = True  | False # True
 resultado8 = False | False # False
 
 #NOT
-resultado9  = not True  # False
-resultado10 = not False # True
+resultado9  = not True     # False
+resultado10 = not False    # True
 
 print(resultado1)
 
